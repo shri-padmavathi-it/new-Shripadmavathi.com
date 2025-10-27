@@ -1,6 +1,6 @@
 {
+  "/_not-found/page": "app/_not-found/page.js",
   "/page": "app/page.js",
-  "/innovation/process/page": "app/innovation/process/page.js",
-  "/consulting/consulting/page": "app/consulting/consulting/page.js",
-  "/products/weed-cutter/page": "app/products/weed-cutter/page.js"
+  "/expertise/Manufacturing/page": "app/expertise/Manufacturing/page.js",
+  "/about/contactUs/page": "app/about/contactUs/page.js"
 }

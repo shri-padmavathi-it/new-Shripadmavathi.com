@@ -98,6 +98,12 @@ export default function Navbar() {
           description: "Process digitization and automation solutions",
         },
         {
+          name: "Manufacturing",
+          path: "/expertise/Manufacturing",
+          description:
+            "Manufacturing",
+        },
+        {
           name: "MES Solutions",
           path: "/expertise/Mes",
           description:
