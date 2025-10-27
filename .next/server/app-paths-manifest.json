@@ -1,6 +1,7 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
   "/page": "app/page.js",
-  "/expertise/Manufacturing/page": "app/expertise/Manufacturing/page.js",
-  "/about/contactUs/page": "app/about/contactUs/page.js"
+  "/about/aboutUs/page": "app/about/aboutUs/page.js",
+  "/about/contactUs/page": "app/about/contactUs/page.js",
+  "/expertise/Manufacturing/page": "app/expertise/Manufacturing/page.js"
 }

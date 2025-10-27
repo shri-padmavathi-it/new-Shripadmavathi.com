@@ -12,36 +12,20 @@
       "static/css/app/page.css",
       "static/chunks/app/page.js"
     ],
-    "/innovation/layout": [
+    "/about/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/innovation/layout.js"
+      "static/chunks/app/about/layout.js"
     ],
-    "/innovation/process/page": [
+    "/about/aboutUs/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/innovation/process/page.js"
+      "static/chunks/app/about/aboutUs/page.js"
     ],
-    "/consulting/layout": [
+    "/about/contactUs/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/consulting/layout.js"
-    ],
-    "/consulting/consulting/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/consulting/consulting/page.js"
-    ],
-    "/products/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/products/layout.js"
-    ],
-    "/products/weed-cutter/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/products/weed-cutter/page.css",
-      "static/chunks/app/products/weed-cutter/page.js"
+      "static/chunks/app/about/contactUs/page.js"
     ],
     "/expertise/layout": [
       "static/chunks/webpack.js",
@@ -52,16 +36,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/expertise/Manufacturing/page.js"
-    ],
-    "/about/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/about/layout.js"
-    ],
-    "/about/contactUs/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/about/contactUs/page.js"
     ],
     "/_not-found/page": [
       "static/chunks/webpack.js",

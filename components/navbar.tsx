@@ -101,7 +101,7 @@ export default function Navbar() {
           name: "Manufacturing",
           path: "/expertise/Manufacturing",
           description:
-            "Manufacturing",
+            "Manufacturing & Sourcing Solutions",
         },
         {
           name: "MES Solutions",

@@ -132,10 +132,10 @@ const ContactUs = () => {
               <div>
                 <h2 className="text-2xl font-bold text-black">EMAIL</h2>
                 <Link
-                  href="mailto:aravind@shripadmavathi.com"
+                  href="mailto:cantact@shripadmavathi.com"
                   className="text-blue-600 hover:text-blue-800 flex items-center mt-1"
                 >
-                  aravind@shripadmavathi.com
+                  contact@shripadmavathi.com
                 </Link>
               </div>
             </div>
@@ -313,17 +313,12 @@ const ContactUs = () => {
                 <div className="flex justify-between">
                   <span className="text-gray-600">Monday - Friday</span>
                   <span className="font-medium text-black">
-                    9:00 AM - 6:00 PM
+                    9:30 AM - 6:30 PM
                   </span>
                 </div>
+                
                 <div className="flex justify-between">
-                  <span className="text-gray-600">Saturday</span>
-                  <span className="font-medium text-black">
-                    10:00 AM - 4:00 PM
-                  </span>
-                </div>
-                <div className="flex justify-between">
-                  <span className="text-gray-600">Sunday</span>
+                  <span className="text-gray-600">Saturday & Sunday</span>
                   <span className="font-medium text-black">Closed</span>
                 </div>
               </div>
