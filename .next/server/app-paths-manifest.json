@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/innovation/process/page": "app/innovation/process/page.js",
+  "/consulting/consulting/page": "app/consulting/consulting/page.js",
+  "/products/weed-cutter/page": "app/products/weed-cutter/page.js"
+}
