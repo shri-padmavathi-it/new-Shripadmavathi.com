@@ -37,7 +37,7 @@ export async function POST(req: NextRequest) {
     const mailOptions = {
       from: `"Shri Padmavathi Consultancy ContactUs" <${process.env.NEXT_PUBLIC_MAIL_USER}>`,
       replyTo: email,
-      to: "aravind@shripadmavathi.com",Office Hours
+      to: "aravind@shripadmavathi.com",
       subject: `New Contact Query - ${name}`,
       html: `
         <h2>New Contact Query</h2>
