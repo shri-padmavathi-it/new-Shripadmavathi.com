@@ -12,30 +12,62 @@
       "static/css/app/page.css",
       "static/chunks/app/page.js"
     ],
-    "/about/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/about/layout.js"
-    ],
-    "/about/aboutUs/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/about/aboutUs/page.js"
-    ],
-    "/about/contactUs/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/about/contactUs/page.js"
-    ],
     "/expertise/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/expertise/layout.js"
     ],
+    "/expertise/EngineeringAndRD/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/expertise/EngineeringAndRD/page.css",
+      "static/chunks/app/expertise/EngineeringAndRD/page.js"
+    ],
+    "/expertise/Digitization/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/expertise/Digitization/page.js"
+    ],
     "/expertise/Manufacturing/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/expertise/Manufacturing/page.js"
+    ],
+    "/expertise/Mes/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/expertise/Mes/page.js"
+    ],
+    "/expertise/Erp/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/expertise/Erp/page.js"
+    ],
+    "/expertise/Software/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/expertise/Software/page.js"
+    ],
+    "/innovation/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/innovation/layout.js"
+    ],
+    "/innovation/ecm/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/innovation/ecm/page.js"
+    ],
+    "/products/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/products/layout.js"
+    ],
+    "/products/weed-cutter/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/products/weed-cutter/page.css",
+      "static/chunks/app/products/weed-cutter/page.js"
     ],
     "/_not-found/page": [
       "static/chunks/webpack.js",
